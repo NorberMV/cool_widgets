@@ -4,7 +4,7 @@ Some cool widgets
 # How can I run some of this?
 - You can just run the command below to run the widgets:
 ```
-make run
+make run-{widget-name}
 ```
 
 - Question Generator.(wip)
