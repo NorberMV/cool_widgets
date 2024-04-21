@@ -1,8 +1,12 @@
 # cool_widgets
 Some cool widgets
 
-# How can I run some of this?
-- You can just run the command below to run the widgets:
+# How can I run this?
+- Install the requirements.txt, run the following command:
+````
+make install
+````
+- Then you can just run the command below to run the widgets:
 ```
 make run-{widget-name}
 ```
