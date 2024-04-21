@@ -9,7 +9,6 @@ make run
 
 - Question Generator.(wip)
 
-![generator](https://github.com/NorberMV/cool_widgets/blob/master/resources/generator.png)
 <img src="https://github.com/NorberMV/cool_widgets/blob/master/resources/generator.png" width="500">
 
 
