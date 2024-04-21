@@ -1,0 +1,1 @@
+from .splash_dialog import Ui_Dialog
