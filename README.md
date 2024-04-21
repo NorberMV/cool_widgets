@@ -10,7 +10,7 @@ make run
 - Question Generator.(wip)
 
 ![generator](https://github.com/NorberMV/cool_widgets/blob/master/resources/generator.png)
-<img src="https://github.com/NorberMV/cool_widgets/blob/master/resources/generator.png" width="250">
+<img src="https://github.com/NorberMV/cool_widgets/blob/master/resources/generator.png" width="500">
 
 
 - To conclude, if you want to quit the service simply execute the following command:
